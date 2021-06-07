@@ -3,16 +3,25 @@
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
 # last updated:   Mon, 07 Jun 2021 10:05:00 PST
-# entries:        6
+# entries:        5
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - https://twitter.com/ArcticCircleSys
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://raw.githubusercontent.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List/main/list.txt
 #
 # start date:     Mon, 07 Jun 2021 09:36:00 PST
+127.0.0.1 absolutehealth.com
 127.0.0.1 axeldivision.com
+127.0.0.1 bettersearch.net
 127.0.0.1 chameleon.ad
+127.0.0.1 hosthis.work
+127.0.0.1 hsvpn.app
 127.0.0.1 imali.media
 127.0.0.1 imalimedia.com
+127.0.0.1 stampy.app
 127.0.0.1 techadsmedia.com
-127.0.0.1 149.202.92.229 
+127.0.0.1 talentstechmedia.com
+127.0.0.1 trott.pw
+127.0.0.1 voxnature.com
+127.0.0.1 yatab.net
+127.0.0.1 yousearching.net
