@@ -10,17 +10,23 @@
 # this URL:       https://raw.githubusercontent.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List/main/list.txt
 #
 # start date:     Mon, 07 Jun 2021 09:36:00 PST
+127.0.0.1 2mig.net
 127.0.0.1 3kpx.net
+127.0.0.1 44ky.net
 127.0.0.1 7eer.net
 127.0.0.1 7ymy.net
+127.0.0.1 8f6i.net
 127.0.0.1 absolutehealth.com
 127.0.0.1 admarketplace.com
 127.0.0.1 admarketplace.net
+127.0.0.1 alrz.net
 127.0.0.1 ampxdirect.com
 127.0.0.1 ampxsearch.com
+127.0.0.1 auhm.net
 127.0.0.1 awux.net
 127.0.0.1 axeldivision.com
 127.0.0.1 azpz.net
+127.0.0.1 bbs4.net
 127.0.0.1 bettersearch.net
 127.0.0.1 bujr.net
 127.0.0.1 chameleon.ad
@@ -29,14 +35,20 @@
 127.0.0.1 cryptotabbrowser.com
 127.0.0.1 cryptotabstart.com
 127.0.0.1 dpuz.net
+127.0.0.1 e54b.net
+127.0.0.1 et7l.net
+127.0.0.1 eyff.net
+127.0.0.1 fdq8.net
 127.0.0.1 funsafetab.com
 127.0.0.1 funsafetabsearch.com
 127.0.0.1 fvla.net
 127.0.0.1 gfko.net
 127.0.0.1 gossiponlinemagazine.com
 127.0.0.1 greatsocialtab.com
+127.0.0.1 hj2i.net
 127.0.0.1 hosthis.work
 127.0.0.1 hsvpn.app
+127.0.0.1 hywa.net
 127.0.0.1 icjj.net
 127.0.0.1 imali.media
 127.0.0.1 imalimedia.com
@@ -53,12 +65,14 @@
 127.0.0.1 newtab-media.com
 127.0.0.1 newtabtvplussearch.com
 127.0.0.1 newtabtvsearch.com
+127.0.0.1 nvzw.net
 127.0.0.1 ojrq.net
 127.0.0.1 otpb.net
 127.0.0.1 pnqv.net
 127.0.0.1 ptko.net
 127.0.0.1 pxiq.net
 127.0.0.1 rapidserach.com
+127.0.0.1 rlvf.net
 127.0.0.1 safebrowsesearch.com
 127.0.0.1 siteplug.com
 127.0.0.1 socialnewpages.com
@@ -70,12 +84,16 @@
 127.0.0.1 trafficrouter.io
 127.0.0.1 trott.pw
 127.0.0.1 uvft.net
+127.0.0.1 vbbg.net
 127.0.0.1 vjgk.net
 127.0.0.1 voxnature.com
+127.0.0.1 vqyv.net
 127.0.0.1 vwdf.net
+127.0.0.1 weqb.net
 127.0.0.1 whvu.net
 127.0.0.1 worldtime.news
 127.0.0.1 xg4ken.com
+127.0.0.1 xgke.net
 127.0.0.1 yatab.net
 127.0.0.1 yourdailywiz.com
 127.0.0.1 yousearching.net
