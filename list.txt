@@ -3,7 +3,7 @@
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
 # last updated:   Mon, 07 Jun 2021 19:30:00 PST
-# entries:        100
+# entries:        106
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - https://twitter.com/ArcticCircleSys
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -20,6 +20,7 @@
 127.0.0.1 absolutehealth.com
 127.0.0.1 admarketplace.com
 127.0.0.1 admarketplace.net
+127.0.0.1 allresultsweb.com
 127.0.0.1 alrz.net
 127.0.0.1 ampxdirect.com
 127.0.0.1 ampxsearch.com
@@ -27,6 +28,7 @@
 127.0.0.1 awux.net
 127.0.0.1 axeldivision.com
 127.0.0.1 azpz.net
+127.0.0.1 bargain-pda.com
 127.0.0.1 bbs4.net
 127.0.0.1 bettersearch.net
 127.0.0.1 bujr.net
@@ -37,10 +39,12 @@
 127.0.0.1 cryptotabbrowser.com
 127.0.0.1 cryptotabstart.com
 127.0.0.1 cuym.net
+127.0.0.1 dements-unator.xyz
 127.0.0.1 dpuz.net
 127.0.0.1 e54b.net
 127.0.0.1 effj.net
 127.0.0.1 et7l.net
+127.0.0.1 expertsnow.com
 127.0.0.1 eyff.net
 127.0.0.1 fdq8.net
 127.0.0.1 fket.net
@@ -50,6 +54,7 @@
 127.0.0.1 gfko.net
 127.0.0.1 gossiponlinemagazine.com
 127.0.0.1 greatsocialtab.com
+127.0.0.1 hebals.com
 127.0.0.1 hj2i.net
 127.0.0.1 hosthis.work
 127.0.0.1 hsvpn.app
@@ -57,6 +62,7 @@
 127.0.0.1 icjj.net
 127.0.0.1 imali.media
 127.0.0.1 imalimedia.com
+127.0.0.1 intional-recond.icu
 127.0.0.1 iroq.net
 127.0.0.1 juo2.net
 127.0.0.1 kmtrak.com
