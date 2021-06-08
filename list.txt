@@ -73,9 +73,9 @@
 127.0.0.1 vjgk.net
 127.0.0.1 voxnature.com
 127.0.0.1 vwdf.net
+127.0.0.1 whvu.net
 127.0.0.1 worldtime.news
 127.0.0.1 xg4ken.com
 127.0.0.1 yatab.net
 127.0.0.1 yourdailywiz.com
 127.0.0.1 yousearching.net
-127.0.0.1 52.52.241.175
