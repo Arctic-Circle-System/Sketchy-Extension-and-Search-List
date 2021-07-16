@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
-# last updated:   Thu, 15 Jul 2021 10:05:00 PST
-# entries:        139
+# last updated:   Thu, 16 Jul 2021 10:59:00 PST
+# entries:        150
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - https://twitter.com/ArcticCircleSys
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -149,3 +149,14 @@
 127.0.0.1 cookies-control.com
 127.0.0.1 cookiesoff.com
 127.0.0.1 extinns.com
+127.0.0.1 stalinep.cf
+127.0.0.1 garwy.com
+127.0.0.1 chromecleanerpro.com
+127.0.0.1 bingoroll10.net
+127.0.0.1 contentmy.com
+127.0.0.1 tempuri.org
+127.0.0.1 chromecleaner.pro
+127.0.0.1 allinoneoffice.net
+127.0.0.1 cryptotab.org
+127.0.0.1 cryptotab.net
+127.0.0.1 getcryptotab.com
