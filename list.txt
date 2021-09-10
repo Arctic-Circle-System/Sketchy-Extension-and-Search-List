@@ -170,3 +170,4 @@
 127.0.0.1 ec2-35-82-113-249.us-west-2.compute.amazonaws.com
 127.0.0.1 ec2-44-237-92-63.us-west-2.compute.amazonaws.com
 127.0.0.1 powerofsearches1.com
+127.0.0.1 handy-tab.net
