@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
-# last updated:   Thu, 16 Jul 2021 14:18:00 PST
-# entries:        160
+# last updated:   Thu, 23 Sep 2021 16:30:00 PST
+# entries:        163
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - https://twitter.com/ArcticCircleSys
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -171,3 +171,5 @@
 127.0.0.1 ec2-44-237-92-63.us-west-2.compute.amazonaws.com
 127.0.0.1 powerofsearches1.com
 127.0.0.1 handy-tab.net
+127.0.0.1 ec2-52-36-71-126.us-west-2.compute.amazonaws.com
+127.0.0.1 ozenneprazowski.com
