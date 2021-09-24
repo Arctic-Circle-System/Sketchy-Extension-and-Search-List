@@ -3,7 +3,7 @@
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
 # last updated:   Thu, 23 Sep 2021 16:30:00 PST
-# entries:        163
+# entries:        173
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - https://twitter.com/ArcticCircleSys
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -173,3 +173,13 @@
 127.0.0.1 handy-tab.net
 127.0.0.1 ec2-52-36-71-126.us-west-2.compute.amazonaws.com
 127.0.0.1 ozenneprazowski.com
+127.0.0.1 spicystart.com
+127.0.0.1 doctopdf.io
+127.0.0.1 srchbar.com
+127.0.0.1 getdocpdf.com
+127.0.0.1 getdoctopdf.com
+127.0.0.1 apiprxy.com
+127.0.0.1 searchmgr.com
+127.0.0.1 bitmotion-tab.com
+127.0.0.1 zapmeta.com
+127.0.0.1 visymo.com
