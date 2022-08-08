@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
-# last updated:   Thu, 23 Sep 2021 16:30:00 PST
+# last updated:   Sun, 07 Aug 2022 23:47:00 PST
 # entries:        173
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - Arctic Circle System#9055 on Discord
