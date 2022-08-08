@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://github.com/Arctic-Circle-System/Sketchy-Extension-and-Search-List
 # ----
-# last updated:   Sun, 07 Aug 2022 23:47:00 PST
-# entries:        173
+# last updated:   Sun, 08 Aug 2022 02:28:00 PST
+# entries:        175
 # format:         hosts (hosts -- in hosts file format)
 # authors:        Arctic Circle System - arcticcirclesystem@gmail.com - https://pixelprofile.github.io - Arctic Circle System#9055 on Discord
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -183,3 +183,5 @@
 127.0.0.1 bitmotion-tab.com
 127.0.0.1 zapmeta.com
 127.0.0.1 visymo.com
+127.0.0.1 whatmyip.com
+127.0.0.1 ouroborosbrowser.com
