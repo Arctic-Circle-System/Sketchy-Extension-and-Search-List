@@ -1,2 +1,2 @@
 # Sketchy-Extension-and-Search-List
-Basically this just blocks websites related to sketchy extensions and those sketchy search engines that are often clones of other sketchy search engines. Probably won't update this much, but it's something.
+Basically this just blocks websites related to sketchy extensions and those sketchy search engines that are often clones of other sketchy search engines. It is not currently maintained and will likely be superseded by [Beryllium Anti-Malware](https://github.com/Arctic-Circle-System/Beryllium-Anti-Malware), another filter list I'm working on that'll have more objective criteria and more documentation.
